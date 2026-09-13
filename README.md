@@ -74,12 +74,3 @@ stocksense/
 │   └── StockSenseNotebook.ipynb   full transformation pipeline (Python/Pandas)
 └── README.md
 ```
-
-## Resume bullet (example)
-
-> Built a Microsoft Fabric data pipeline flagging retail stockout risk
-> from transaction data — cleaned and transformed 1,067,371 raw
-> transaction records via a Fabric Notebook (Python/Pandas) orchestrated
-> through a Fabric Data Pipeline, computing demand statistics and reorder
-> points for 4,985 unique products; flagged 92 products (1.8%) at
-> stockout risk and surfaced results in a Power BI report.
