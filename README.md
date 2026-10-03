@@ -8,13 +8,6 @@ end-to-end, and surface business risk in a report.
 **Stack:** Microsoft Fabric (Lakehouse, Notebook, Data Pipeline, Delta
 Tables) · Python (Pandas) · Power BI
 
-## Why this project
-
-Built to close a specific gap against Data & AI Engineer job descriptions
-that name a cloud data platform (Microsoft Fabric, Databricks, Snowflake,
-etc.) as a plus — every step below demonstrates the core Fabric workflow:
-Lakehouse ingestion, notebook transformation, Delta table storage, pipeline
-orchestration, and BI reporting.
 
 ## What it does
 
